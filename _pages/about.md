@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>HyunDo Kanga>.
+subtitle: <a href='#'>HyunDo Kang.
 
 profile:
 news: false # includes a list of news items
