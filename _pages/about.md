@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: HyunDo Kang.
 permalink: /
-subtitle: <a href='#'>HyunDo Kang.
+
 
 profile:
 news: false # includes a list of news items
