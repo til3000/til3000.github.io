@@ -2,6 +2,7 @@
 layout: about
 title: HyunDo Kang.
 permalink: /
+subtitile: #HyumDo Kang.
 
 
 profile:
