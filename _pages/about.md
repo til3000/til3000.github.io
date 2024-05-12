@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>.
+subtitle: <a href='#'>/a>.
 
 profile:
 news: false # includes a list of news items
